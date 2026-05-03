@@ -1,2 +1,2 @@
-# matrixsystems
-Subsystem Development
+# Matrix Systems
+Subsystem Development and sharing
